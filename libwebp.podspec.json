@@ -1,6 +1,6 @@
 {
   "name": "libwebp",
-  "version": "0.5.0",
+  "version": "1.0.2",
   "summary": "Library to encode and decode images in WebP format.",
   "homepage": "https://developers.google.com/speed/webp/",
   "authors": "Google Inc.",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/yudun1989/libwebp.git",
-    "tag": "v0.5.0"
+    "tag": "v1.0.2"
   },
   "compiler_flags": "-D_THREAD_SAFE",
   "requires_arc": false,
